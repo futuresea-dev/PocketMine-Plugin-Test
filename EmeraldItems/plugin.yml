@@ -1,0 +1,5 @@
+#name, main, version and api are required
+name: EmeraldItems
+main: FutureSea\EmeraldItems\Loader
+version: 1.0.0
+api: 5.0.0

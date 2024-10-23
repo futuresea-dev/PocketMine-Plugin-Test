@@ -1,0 +1,19 @@
+#name, main, version and api are required
+name: SavePlayer
+main: SavePlayer\MainClass
+src-namespace-prefix: SavePlayer
+version: 1.0.1
+api: 5.0.0
+
+load: POSTWORLD
+author: PocketMine Team
+description: plugin save player info
+commands:
+  ping:
+    description: Returns their internet ping
+    usage: "/ping"
+    permission: saveplayer.command.ping
+permissions:
+  saveplayer.command.ping:
+    description: "Returns their internet ping"
+    default: true
