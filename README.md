@@ -1,4 +1,4 @@
-# PocketMine Technical Test Plugin
+# PocketMine Plugin
 
 ## Overview
 
